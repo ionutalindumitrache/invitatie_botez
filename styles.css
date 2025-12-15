@@ -258,7 +258,18 @@ body{
   color: var(--muted);
   font-size: 13px;
 }
+.partyStory{
+  margin: 10px 0 4px;
+  font-family: var(--serif);
+  font-size: 14.5px;
+  line-height: 1.75;
+  color: rgba(90,75,40,.92);
+}
 
+.partyStory strong{
+  font-weight: 600;
+  color: rgba(120,90,30,.95);
+}
 .actions{
   display:flex;
   gap: 10px;
