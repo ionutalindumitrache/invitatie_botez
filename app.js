@@ -8,7 +8,7 @@ const INV = {
 
     // Orele: editezi tu când le stabilești
     // Exemplu: "Ora: 12:00" sau "12:00"
-    churchTimeText: "Ora: (urmează să fie stabilită)",
+    churchTimeText: "Ora: (13:00)",
     // Exemplu: "Începând cu ora 17:00" sau "17:00"
     partyTimeText: "Începând cu ora 17:00 (ajustabil)",
 
