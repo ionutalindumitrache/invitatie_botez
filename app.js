@@ -25,7 +25,7 @@ const INV = {
     },
 
     parents: "Ana & Alin DUMITRACHE",
-    godparents: "Cosmina & Mircea PUSCUȚA",
+    godparents: "Cosmina & Mircea PUȘCUȚĂ",
 
     phoneIntl: "+40740487295",
     phoneWa: "40740487295", // fără +
