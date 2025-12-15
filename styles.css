@@ -296,19 +296,28 @@ body {
 }
 
 .pane .partyStory {
-    margin: 12px 0 6px !important;
+    margin: 14px auto 8px !important;
+    max-width: 42ch;
+    text-align: center !important;
+
     font-family: "Cormorant Garamond", serif !important;
     font-style: italic !important;
-    font-size: 14.2px !important;
-    line-height: 1.9 !important;
-    color: rgba(110, 90, 50, .85) !important;
+    font-size: 14.6px !important;
+    line-height: 1.95 !important;
+
+    color: rgba(105, 85, 45, .88) !important;
 }
 
 .pane .partyStory .partyAccent {
+    display: inline-block;
+    margin: 2px 0;
+
     font-style: normal !important;
-    font-weight: 500 !important;
-    color: rgba(155, 115, 45, .95) !important;
-    letter-spacing: .2px;
+    font-weight: 600 !important;
+    font-size: 1.15em !important;
+    letter-spacing: .3px;
+
+    color: rgba(150, 110, 35, .98) !important;
 }
 
 .actions {
