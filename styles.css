@@ -259,16 +259,20 @@ body{
   font-size: 13px;
 }
 .partyStory{
-  margin: 10px 0 4px;
+  margin: 12px 0 6px;
   font-family: var(--serif);
-  font-size: 14.5px;
-  line-height: 1.75;
-  color: rgba(90,75,40,.92);
+  font-style: italic;
+  font-size: 14.2px;
+  line-height: 1.85;
+  color: rgba(110, 90, 50, .85);
+  text-align: left;
 }
 
-.partyStory strong{
-  font-weight: 600;
-  color: rgba(120,90,30,.95);
+.partyAccent{
+  font-style: normal;
+  font-weight: 500;
+  color: rgba(155, 115, 45, .95);
+  letter-spacing: .2px;
 }
 .actions{
   display:flex;
